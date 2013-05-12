@@ -1,0 +1,1 @@
+﻿package com.hunterdouglas.common{		public class TextLabel{				public static var PHOTOGALLERY:String = "PhotoGallery";		public static var PHOTOGALLERY_TITLE:String = "Title";	}}

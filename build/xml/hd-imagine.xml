@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<loadingMessages>
+		<interface><![CDATA[LOADING INTERFACE]]></interface>
+		<product><![CDATA[LOADING PRODUCT]]></product>
+		<room><![CDATA[LOADING ROOM]]></room>
+		<swatch><![CDATA[LOADING SWATCHES]]></swatch>
+		<swatch_similar><![CDATA[LOADING SIMILAR SWATCHES]]></swatch_similar>
+		<xcart><![CDATA[LOADING XCART DATA]]></xcart>
+		<filter><![CDATA[LOADING FILTERS]]></filter>
+		<banding><![CDATA[LOADING SWATCHES]]></banding>
+		<color><![CDATA[LOADING COLORS]]></color>
+		<rendering><![CDATA[RENDERING]]></rendering>
+		<filtering><![CDATA[FILTERING]]></filtering>
+	</loadingMessages>
+</config>

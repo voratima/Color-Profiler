@@ -1,0 +1,89 @@
+/* CSS Document */
+p {
+	font-family: "HelveticaNeue Roman Edit";
+	font-size: 14;
+	color: #231f20;
+	letter-spacing: 0px;
+	leading: 0px;
+	kerning: true;
+}
+.button {
+	font-family: "HelveticaNeue Roman Edit";
+	font-size: 16;
+	color: #000000;
+	letter-spacing: -0.1px;
+	leading: 0px;
+	kerning: true;
+}
+.selectorBtn {
+	font-family: "Univers LT Std 45 Light Flash";
+	font-size: 13;
+	color: #000000;
+	letter-spacing: -0.1px;
+	leading: -1px;
+	kerning: true;
+}
+.condSmallBtn {
+	font-family: "Univers LT Std 57 Cn";
+	font-size:9;
+	color: #FFFFFF;
+	letter-spacing:.1px;
+	leading: 0px;
+	kerning: true;
+}
+.condLargeBtn {
+	font-family: "Univers LT Std 57 Cn";
+	font-size:11;
+	color: #FFFFFF;
+	letter-spacing:.7px;
+	leading: 0px;
+	kerning: true;
+}
+.headline {
+	font-family: "HelveticaNeue Roman Edit";
+	font-size: 13;
+	color: #231f20;
+	letter-spacing: 0px;
+	leading: 0px;
+	kerning: true;
+}
+.loadingMessage{
+	font-family: "Univers LT Std 55";
+	font-size: 9;
+	color: #5b5b5b;
+	letter-spacing: 0px;
+	kerning: true;
+}
+.viewsSwatchView{
+	font-family: "Arial Flash";
+	color:#FFFFFF;
+	font-size:10;
+	letter-spacing:1;
+	kerning: true;
+	leading: 0px;
+}
+.viewsSearchFilters{
+	font-family: "Univers LT Std 47 Cn Lt";
+	color:#FFFFFF;
+	font-size:10;
+	letter-spacing:1.2;
+	kerning: true;
+	leading: 0px;
+}
+.viewsAlertMessage{
+	font-family: "Univers LT Std 45 Light Flash";
+	color:#FFFFFF;
+	font-size:12;
+	letter-spacing:0.5;
+	kerning: true;
+	leading: 0px;
+	text-align: center;
+}
+a:link {
+	color: #055798;
+	text-decoration: underline;
+}
+a:hover {
+	color: #cb008a;
+	text-decoration: underline;
+}
